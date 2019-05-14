@@ -1,0 +1,8 @@
+---
+openapi: 3.0.2
+info:
+  title: address
+  description: show address
+  contact:
+    email: 大
+  version: 1.2.3
